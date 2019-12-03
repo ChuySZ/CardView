@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+ Copyright 2014 The Android Open Source Project
+
+ Licensed under the Apache License, Version 2.0 (the "License");
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+
+     http://www.apache.org/licenses/LICENSE-2.0
+
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an "AS IS" BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+-->
+<resources>
+    <string name="app_name">Conductor</string>
+    <string name="insti1">"SGMóvil"</string>
+    <string name="insti2">"CadLan(R) México"</string>
+    <string name="LogHel">"SGM Agente"</string>
+    <string name="sgm_vil">SGMóvil</string>
+    <string name="cadlan_mxico">CadLan México</string>
+    <string name="incidencias">INCIDENCIAS</string>
+    <string name="estatus">Estatus</string>
+    <string name="jerry_alejandro">JERRY ALEJANDRO</string>
+    <string name="_0">0</string>
+    <string name="activo">ACTIVO</string>
+    <string name="v2_1_13">V2.1.13</string>
+    <string name="agente">AGENTE</string>
+    <string name="imgperfil">ImgPerfil</string>
+    <string name="cerrar_sesion">Cerrar Sesion</string>
+    <string name="contenido">TODO</string>
+    <string name="d1">d1</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>
